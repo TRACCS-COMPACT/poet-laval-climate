@@ -1,0 +1,10 @@
+name: poet-laval
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - xarray
+  - netcdf4
+  - pandas
+  - matplotlib
+  - jupyter
