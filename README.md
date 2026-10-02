@@ -4,7 +4,7 @@ Atelier pratique (≈ 1 h) : **réaliser une petite étude climatique avec un ag
 
 ## La mission
 
-Vous êtes chercheur·e en climat. La Mairie du Poët-Laval et le Département de la Drôme préparent un plan
+Vous êtes chercheur·se en climatologie. La Mairie du Poët-Laval et le Département de la Drôme préparent un plan
 d'adaptation au changement climatique, pour le village et pour son agriculture. Ils vous demandent une
 **fiche d'une page** sur le climat de la commune et son évolution depuis 1950.
 
@@ -61,7 +61,7 @@ Faites **une figure** qui montre la température et la pluie de chaque mois (199
 Questions de vérification :
 - Quels sont les mois les plus pluvieux ? Les plus secs ?
 - ERA5 et la station ne donnent pas la même température. Pourquoi ?
-- Un·e élu·e ou un·e agriculteur·rice comprendrait-il·elle votre figure sans aide ?
+- Est-ce qu'un·e élu·e ou un·e agriculteur·rice comprendrait votre figure sans aide ?
 
 ### Niveau 2 : Fait-il plus chaud ?
 
